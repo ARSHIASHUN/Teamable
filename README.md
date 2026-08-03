@@ -1,5 +1,5 @@
 # teamable
-this is an application for managing employee profiles
+This is an application for managing employee user profiles
 
 ### to run the test execute
 
