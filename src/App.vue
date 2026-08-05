@@ -1,3 +1,6 @@
+<!-- Git practice change by ARSHIA -->
+
+
 <template>
     <div v-show="!isEditMode">
         <h1>User profile</h1>
